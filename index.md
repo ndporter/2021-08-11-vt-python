@@ -396,6 +396,7 @@ please preview your site before committing, and make sure to run
   {% endif %}
   workshop,
   you will need access to software as described below.
+  <em>For this workshop, you will not need Bash, Git, or a Text Editor; you will only need Anaconda and the software included with it.</em>
   In addition, you will need an up-to-date web browser.
 </p>
 <p>
